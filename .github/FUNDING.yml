@@ -1,0 +1,2 @@
+# Shows a "Sponsor" button on the repository page: the Chinese README on the home page, and the English one.
+custom: ["https://github.com/zhaoweijia1997/compare_tool#-%E6%94%AF%E6%8C%81-pycompare", "https://github.com/zhaoweijia1997/compare_tool/blob/main/README_EN.md#-support-pycompare"]

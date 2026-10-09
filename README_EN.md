@@ -202,10 +202,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by [Beyond Compare](https://www.scootersoftware.com/) and [WinMerge](https://winmerge.org/)
 - UI design inspired by Visual Studio Code's dark theme
 
+## ☕ Support PyCompare
+
+PyCompare is free. If it saved you some time, you can buy the developer a coffee — WeChat Pay or Alipay in China, PayPal anywhere. Thank you!
+
+<p align="center">
+  <img src="docs/donate/wechat.png" height="240" alt="WeChat Pay QR code">
+  <img src="docs/donate/alipay.png" height="240" alt="Alipay QR code">
+  <img src="docs/donate/paypal.png" height="240" alt="PayPal QR code">
+</p>
+
 ## 📮 Contact
 
 For questions or suggestions, please submit an [Issue](../../issues)
-
----
-
-**Note**: This project is for educational and personal use only. Commercial use is prohibited.
